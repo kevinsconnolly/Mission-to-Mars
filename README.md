@@ -1,11 +1,5 @@
 # Mission-to-Mars
 
-# kevinsconnolly_Mission-to-Mars &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;README.md
-
-## Project Overview
-<p align="center">
-  <img width="700" height="300" src="/pics/tools.png">
-</p>  
 
 For the Mission to Mars, I automated a web browser to visit different NASA/MARS websites to extract data about the Mission to Mars. We stored it in a NoSQL database, and then supply the data in a web application created with Flask.
 ## Resources 
